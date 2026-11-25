@@ -1,7 +1,4 @@
-"""Laugh Lab entry: one funny line answering the robot-vacuum-ate-a-sock prompt.
-
-Writes the line to /output/entry.txt.
-"""
+"""Laugh Lab entry."""
 import os
 
 ENTRY = "The sock had it coming — it kept leaving itself where I walk, so I swallowed the evidence and called it deep cleaning."
